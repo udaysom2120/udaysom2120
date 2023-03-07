@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on a Blog Website with React.Js Texact
-- 🌱 I’m currently learning React.Js and Machine Learning
+- 🔭 I’m currently training in java, sql, C# and GitHub. Some awesome projects are coming on its way. Stay tuned!
+- 🌱 I’m currently learning Java and SQL.
 - 👯 I’m looking to collaborate on Meta
 - 🤔 I’m looking for help with Data Structures
 - 💬 Ask me about my projects
